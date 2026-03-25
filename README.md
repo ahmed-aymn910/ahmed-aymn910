@@ -39,14 +39,14 @@ I am passionate about using data to solve real-world challenges and applying Art
 ### GitHub Stats
 
 <p align="center">
-<!-- Note: By explicitly setting include_all_commits=false, it restricts the total commits to the current year (starting Jan 2026) -->
+<!-- Note: GitHub Stats widgets pull from public commits on the master/main branch. If it shows 0, ensure your repos are public and commits are linked to your exact username/email. -->
 <a href="https://github.com/ahmed-aymn910">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-aymn910&show_icons=true&theme=radium&hide_border=true&custom_title=2026%20GitHub%20Contributions" alt="Ahmed's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-aymn910&show_icons=true&theme=radium&hide_border=true" alt="Ahmed's GitHub Stats" />
 </a>
 <br/>
 <br/>
 <a href="https://github.com/ahmed-aymn910">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-aymn910&theme=radium&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Ahmed's GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-aymn910&theme=radium&hide_border=true" alt="Ahmed's GitHub Streak" />
 </a>
 </p>
 
@@ -55,8 +55,3 @@ I am passionate about using data to solve real-world challenges and applying Art
 ### Quote
 
 > *"Data paints the world’s patterns — AI brings them to life."*
-
-
-
-
-
