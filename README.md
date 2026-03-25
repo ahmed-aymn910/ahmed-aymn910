@@ -13,7 +13,7 @@ I'm an **aspiring Data & Machine Learning Scientist**, currently studying **Comp
 I am passionate about using data to solve real-world challenges and applying Artificial Intelligence to create practical, impactful solutions. My journey is fueled by a continuous desire to learn and innovate in the fields of Machine Learning, Deep Learning, and Data Analytics.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKr3nzbh5WgCFxe/giphy.gif" alt="Data Science & Machine Learning Animation" width="450"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*oUAAR9fnsmpstFhqmZZ55g.gif" alt="Data Science & Machine Learning Animation" width="450"/>
 </p>
 
 ---
@@ -39,9 +39,9 @@ I am passionate about using data to solve real-world challenges and applying Art
 ### GitHub Stats
 
 <p align="center">
-<!-- Note: GitHub limits these occasionally, but they add a robust element to the profile -->
+<!-- Note: By explicitly setting include_all_commits=false, it restricts the total commits to the current year (starting Jan 2026) -->
 <a href="https://github.com/ahmed-aymn910">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-aymn910&show_icons=true&theme=radium&hide_border=true&custom_title=2026%20GitHub%20Contributions" alt="Ahmed's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-aymn910&show_icons=true&theme=radium&hide_border=true&custom_title=2026%20GitHub%20Contributions&include_all_commits=false" alt="Ahmed's GitHub Stats" />
 </a>
 <br/>
 <br/>
@@ -55,5 +55,7 @@ I am passionate about using data to solve real-world challenges and applying Art
 ### Quote
 
 > *"Data paints the world’s patterns — AI brings them to life."*
+
+
 
 
