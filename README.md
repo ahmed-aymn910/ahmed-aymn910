@@ -41,12 +41,12 @@ I am passionate about using data to solve real-world challenges and applying Art
 <p align="center">
 <!-- Note: By explicitly setting include_all_commits=false, it restricts the total commits to the current year (starting Jan 2026) -->
 <a href="https://github.com/ahmed-aymn910">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-aymn910&show_icons=true&theme=radium&hide_border=true&custom_title=2026%20GitHub%20Contributions&include_all_commits=false" alt="Ahmed's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-aymn910&show_icons=true&theme=radium&hide_border=true&custom_title=2026%20GitHub%20Contributions" alt="Ahmed's GitHub Stats" />
 </a>
 <br/>
 <br/>
 <a href="https://github.com/ahmed-aymn910">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-aymn910&theme=radium&hide_border=true&title=2026%20GitHub%20Streak" alt="Ahmed's GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-aymn910&theme=radium&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Ahmed's GitHub Streak" />
 </a>
 </p>
 
@@ -55,6 +55,7 @@ I am passionate about using data to solve real-world challenges and applying Art
 ### Quote
 
 > *"Data paints the world’s patterns — AI brings them to life."*
+
 
 
 
