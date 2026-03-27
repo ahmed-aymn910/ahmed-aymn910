@@ -35,8 +35,7 @@ I am passionate about using data to solve real-world challenges and applying Art
 </p>
 
 ---
-
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ahmed-aymn910&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
 ### Quote
 
 > *"Data paints the world’s patterns — AI brings them to life."*
