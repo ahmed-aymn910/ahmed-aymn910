@@ -36,21 +36,6 @@ I am passionate about using data to solve real-world challenges and applying Art
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-<!-- Note: GitHub Stats widgets pull from public commits on the master/main branch. If it shows 0, ensure your repos are public and commits are linked to your exact username/email. -->
-<a href="https://github.com/ahmed-aymn910">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-aymn910&show_icons=true&theme=radium&hide_border=true" alt="Ahmed's GitHub Stats" />
-</a>
-<br/>
-<br/>
-<a href="https://github.com/ahmed-aymn910">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-aymn910&theme=radium&hide_border=true" alt="Ahmed's GitHub Streak" />
-</a>
-</p>
-
----
 
 ### Quote
 
