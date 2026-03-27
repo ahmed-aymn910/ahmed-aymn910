@@ -8,7 +8,7 @@
 
 ### About Me
 
-I'm an **aspiring Data & Machine Learning Scientist**, currently studying **Computer Science** at the **Faculty of Computers & AI, University of Sadat City**. 
+I'm an **aspiring Ai & Data Scientist**, currently studying **Computer Science** at the **Faculty of Computers & AI, University of Sadat City**. 
 
 I am passionate about using data to solve real-world challenges and applying Artificial Intelligence to create practical, impactful solutions. My journey is fueled by a continuous desire to learn and innovate in the fields of Machine Learning, Deep Learning, and Data Analytics.
 
